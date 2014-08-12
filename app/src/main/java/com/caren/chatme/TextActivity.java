@@ -22,7 +22,7 @@ public class TextActivity extends Activity {
     TextView tv4;
     TextView tv5;
     TextView tv6;
-    String phoneNo = "6262571325";
+    String phoneNo = "2134482649";
 
 
     @Override
